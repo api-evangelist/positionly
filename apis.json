@@ -1,0 +1,77 @@
+{
+    "name": "Positionly",
+    "description": "Inbound Marketing Software by Positionly. Try the best user-friendly tools to track and improve SEO.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1662-positionly.jpg",
+    "tags": [
+        "have api",
+        "social",
+        "target"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/positionly\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Positionly",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1662-positionly.jpg",
+            "humanURL": "https:\/\/positionly.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/positionly-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/positionly-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Base",
+            "url": "https:\/\/api.positionly.com\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.positionly.com\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/positionly"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/positionly"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/positionly.com\/api"
+        },
+        {
+            "type": "Email",
+            "url": "reklamacje@positionly.com"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/positionly"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/UnamoHQ"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/positionly"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/positionly.com"
+        }
+    ]
+}
